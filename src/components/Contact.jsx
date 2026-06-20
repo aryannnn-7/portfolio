@@ -48,7 +48,7 @@ function Contact() {
             <CB label="aryanrane2006@gmail.com" href="mailto:aryanrane2006@gmail.com" primary={true} />
             <CB label="+91 87794 96837" href="tel:+918779496837" primary={false} />
             <CB label="LinkedIn" href="https://linkedin.com/in/aryan-rane-5260a2415" primary={false} />
-            <CB label="GitHub" href="https://github.com/aryanrane7206" primary={false} />
+            <CB label="GitHub" href="https://github.com/aryannnn-7" primary={false} />
             <CB label="Resume" href="/Aryan_rane.pdf" primary={false} />
           </div>
         </div>

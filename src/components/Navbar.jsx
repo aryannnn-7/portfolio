@@ -98,7 +98,7 @@ function Navbar() {
         </ul>
 
         <a
-          href="/Aryan_rane.pdf"
+          href="/Aryan rane.pdf"
           download
           style={{
             padding: '0.5rem 1.2rem',

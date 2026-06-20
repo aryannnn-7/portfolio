@@ -179,14 +179,14 @@ function Hero() {
 
         {/* Buttons */}
         <div style={{ display: 'flex', gap: '0.75rem', flexWrap: 'wrap', marginBottom: '3rem' }}>
-          <a href="#projects" className="btn-primary" style={{
+          <a href="#work" className="btn-primary" style={{
             padding: '0.75rem 1.75rem', background: 'var(--coral)',
             color: '#fff', fontWeight: 600, textDecoration: 'none',
             borderRadius: '100px', fontFamily: 'Syne, sans-serif',
             fontSize: '0.88rem', display: 'inline-block'
           }}>See my work →</a>
 
-          <a href="https://github.com/aryanrane7206" target="_blank" rel="noopener noreferrer"
+          <a href="https://github.com/aryannnn-7" target="_blank" rel="noopener noreferrer"
             className="btn-ghost" style={{
               padding: '0.75rem 1.5rem', background: 'transparent',
               color: 'var(--ink2)', fontWeight: 500, textDecoration: 'none',

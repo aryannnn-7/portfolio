@@ -16,7 +16,7 @@ const projects = [
       'Research paper authored — submitted for publication',
     ],
     stack: ['React 18', 'Node.js', 'MongoDB', 'Docker', 'Jenkins', 'Prometheus'],
-    github: 'https://github.com/aryanrane7206',
+    github: 'https://github.com/aryannnn-7',
     live: '#',
   },
   {
@@ -25,7 +25,7 @@ const projects = [
     badge: 'Flagship',
     badgeStyle: { background: 'var(--coral-light)', color: 'var(--coral)', border: '1px solid rgba(232,82,26,0.2)' },
     sideLabel: 'Security + ML',
-    desc: 'Enterprise-grade network intrusion detection dashboard powered by Isolation Forest ML. Runs entirely browser-native — no external API calls. Includes a Chrome Extension for live traffic capture.',
+    desc: 'Enterprise-grade network intrusion detection dashboard powered by Isolation Forest ML. Runs entirely browser-native — no external API calls. Includes a Chrome Extension for live traffic capture.Collaborator in this project.',
     points: [
       'Isolation Forest ML model scores every network packet in real time',
       'NLP threat classification — TF-IDF + Naive Bayes + semantic SOC chatbot',
@@ -33,7 +33,7 @@ const projects = [
       'Chrome Extension (MV3) + one-click firewall mitigation',
     ],
     stack: ['React 18', 'TypeScript', 'D3.js', 'Isolation Forest', 'TF-IDF', 'Supabase', 'Chrome MV3'],
-    github: 'https://github.com/aryanrane7206',
+    github: 'https://github.com/aryannnn-7',
     live: null,
   },
   {
@@ -49,7 +49,7 @@ const projects = [
       'Least-privilege IAM + 5-min pre-signed URL TTL + 7-day S3 lifecycle expiry',
     ],
     stack: ['AWS Lambda', 'Amazon S3', 'API Gateway', 'IAM', 'Node.js'],
-    github: 'https://github.com/aryanrane7206',
+    github: 'https://github.com/aryannnn-7',
     live: null,
   },
   {
@@ -65,7 +65,7 @@ const projects = [
       'Per-class confidence scores visualised via Chart.js',
     ],
     stack: ['Python', 'Flask', 'scikit-learn', 'TF-IDF', 'Chart.js'],
-    github: 'https://github.com/aryanrane7206',
+    github: 'https://github.com/aryannnn-7',
     live: null,
   },
   {
@@ -80,7 +80,7 @@ const projects = [
       'Correlation analysis: wind speed, humidity vs PM2.5/PM10/NO2',
     ],
     stack: ['Python', 'Streamlit', 'Pandas', 'scikit-learn', 'Plotly'],
-    github: 'https://github.com/aryanrane7206',
+    github: 'https://github.com/aryannnn-7',
     live: null,
   },
   {
@@ -92,7 +92,7 @@ const projects = [
     desc: 'Full EDA on 6,871 Indian recipes — custom data cleaning, 6 Python visualizations, and an interactive Power BI dashboard exploring cuisine patterns across India.',
     points: [],
     stack: ['Python', 'Pandas', 'Matplotlib', 'Seaborn', 'Power BI'],
-    github: 'https://github.com/aryanrane7206',
+    github: 'https://github.com/aryannnn-7',
     live: null,
   },
 ]
