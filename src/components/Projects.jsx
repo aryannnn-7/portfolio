@@ -17,7 +17,7 @@ const projects = [
     ],
     stack: ['React 18', 'Node.js', 'MongoDB', 'Docker', 'Jenkins', 'Prometheus'],
     github: 'https://github.com/aryannnn-7',
-    live: '#',
+    live: 'devops-mini-project-git-main-aryan29.vercel.app',
   },
   {
     num: '02',
